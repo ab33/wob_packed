@@ -1,0 +1,24 @@
+How to use:
+----------
+	
+	! IMPORTANT: in the extension's Options page set your Popcorn box's IP address,
+
+	* Right click on direct link to some video file and select "Watch on Box" from
+	  the context menu,
+	* "Watch Now" sub-option sends the link to Popcorn box and adds it into the history,
+	* "Throw at list" sub-option simply adds the link into the history,
+	* "Glance at" sub-option just sends the link to Popcorn box,
+	* Use "Url:" input field to enter video URL manually,
+	* Use simple RC (activated/deactivated by "Ctrl" key) to control your box.
+
+
+Hints:
+-----
+	* No checking of URLs is performed - please use dicrect links to video,
+	* RC supports shorcuts for entering characters in an input fields on the box,
+
+
+Permissions.
+
+	* "Your data on all websites" - required for extending of context menus on a page (guessing),
+	* "Your tabs and browsing activity" - required for opening a page in a new tab from the history.
